@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://voteveto2.github.io/xinyu/sitemap.xml
+Sitemap: https://voteveto2.github.io/xinyu//sitemap.xml
