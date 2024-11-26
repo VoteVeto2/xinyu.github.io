@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://xinyu.github.io/sitemap.xml
